@@ -19,7 +19,7 @@ const Carousel = () => {
       const first = items.shift();
       items.push(first);
       track.innerHTML = ""; // Clear track
-      items.forEach(item => track.appendChild(item)); // Append reordered items
+      items.forEach(item => track.appendChild(item)); 
     }, 2000);
 
     return () => clearInterval(interval);
