@@ -7,7 +7,7 @@ const Footer = () => {
     <footer>
       <div className="container-fluid">
         <div className="row">
-          {/* Column 1 */}
+          
           <div className="col-md-3">
             <h1 className="mb-4 footer_first_align">Tech-Shop</h1>
             <ul className="list-unstyled">
