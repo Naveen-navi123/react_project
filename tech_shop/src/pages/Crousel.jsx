@@ -25,7 +25,7 @@ export default function Carousel() {
                         <div className="flex flex-col md:flex-row items-center justify-between max-w-7xl mx-auto px-6 py-12">
 
                             {/* LEFT SIDE - TEXT */}
-                            <div className="w-full md:w-1/2 flex flex-col items-start text-left">
+                            <div className="w-full md:w-1/2 flex flex-col items-start text-left ">
                                 <h5 className="text-3xl md:text-6xl font-bold text-white mb-4">
                                     {item.title}
                                 </h5>
