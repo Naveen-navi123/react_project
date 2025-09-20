@@ -57,7 +57,7 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Column 4 */}
+          
           <div className="col-md-3 text-center">
             <h3 className="ps-md-0 mb-4">Company</h3>
             <ul className="list-unstyled">
