@@ -51,7 +51,7 @@ const TopProducts = () => {
     <div className="container-fluid bg-dark pb-5">
       <h3 className="text-center text-white p-4">Top Products</h3>
 
-      {/* Category Buttons */}
+    
       <div className="button-container text-center mb-4">
         {categories.map((category) => (
           <button
