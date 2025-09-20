@@ -4,7 +4,7 @@ import secondSlider from "../images/products/boat110-2.png";
 import thirdSlider from "../images/products/boat131-1.png";
 import fourthSlider from "../images/products/boat410-1.png";
 import sevenSlider from "../images/products/boat203-1.png";
-import "./Slider.css"; // Create a CSS file for styles
+import "./Slider.css"; 
 import { Link } from "react-router-dom";
 
 const Carousel = () => {
