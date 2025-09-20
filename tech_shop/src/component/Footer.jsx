@@ -72,7 +72,7 @@ const Footer = () => {
 
         <hr />
 
-        {/* Copyright */}
+        
         <div className="text-start">
           <div className="row">
             <div className="col-8">
