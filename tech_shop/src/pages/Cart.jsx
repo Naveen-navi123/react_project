@@ -38,7 +38,7 @@ const Cart = () => {
         </div>
       ) : (
         // ✅ Cart UI with Items
-        <div className="row justify-content-center my-3">
+        <div className="row justify-content-center my-3 ">
           {/* Order Summary */}
           <div
             className="col-12 col-sm-4 order-sm-2"
@@ -50,7 +50,7 @@ const Cart = () => {
           >
             <h4 className="text-white">Order Summary ({cart.length} items)</h4>
             <br />
-            <div className="d-flex justify-content-between text-white">
+            <div className="d-flex justify-content-between text-white ">
               <p>Original Price</p>
               <p>₹{originalPrice.toLocaleString()}</p>
             </div>
